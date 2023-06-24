@@ -1,0 +1,5 @@
+- 👋 Ola, meu nome é @AlanWanglon
+- 👀 Estou interessado em aprender ...
+- ✨ Algumas de minhas skills: HTML | CSS | javascript | python
+- 💞️ Entusiasta de tecnologia e todas suas aplicações
+- 📫 Encontre meu contato principal: https://www.linkedin.com/in/alan-wanglon-a539a4183/
