@@ -1,5 +1,3 @@
 - 👋 Ola, meu nome é @AlanWanglon
-- 👀 Estou interessado em aprender ...
-- ✨ Algumas de minhas skills: HTML | CSS | javascript | python
-- 💞️ Entusiasta de tecnologia e todas suas aplicações
-- 📫 Encontre meu contato principal: https://www.linkedin.com/in/alan-wanglon-a539a4183/
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressansantos&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressansantos&layout=compact&theme=tokyonight"/>
