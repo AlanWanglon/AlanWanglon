@@ -5,7 +5,7 @@
 
   [![whatsapp](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alan_wanglon/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-wanglon-a539a4183/)
-  [![like](https://img.shields.io/badge/Site%20Porttifólio-%E2%9D%A4-red.svg?style=flat)](https://alanwanglon.github.io/portifolio.projetos/)
+  [![like](https://img.shields.io/badge/Site%20Portifólio-%E2%9D%A4-red.svg?style=flat)](https://alanwanglon.github.io/portifolio.projetos/)
 
 
 
