@@ -5,7 +5,8 @@
 
   [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alan_wanglon/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-wanglon-a539a4183/)
- [![Site]([https://photos.google.com/photo/AF1QipMQ5wWCGi9u3PJpdHAZDmHe77OH3uKeWNyq5LM)](https://drive.google.com/file/d/1cwjVVe1DZa2w6eOlVNJqBJq1dZLdkS_9/view?usp=sharing))](https://alanwanglon.github.io/portifolio.projetos/)
+  [![Site](https://photos.google.com/photo/AF1QipMQ5wWCGi9u3PJpdHAZDmHe77OH3uKeWNyq5LM)](https://alanwanglon.github.io/portifolio.projetos/)
+
 
 
 
