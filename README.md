@@ -5,6 +5,7 @@
 
   [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alan_wanglon/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-wanglon-a539a4183/)
+  <img src="https://raw.githubusercontent.com/AlanWanglon/AlanWanglon/main/4d.gif" width="28px">
   <a href="https://alanwanglon.github.io/portifolio.projetos/">
     <img src="https://github.com/AlanWanglon/AlanWanglon/blob/main/logo.jpg" width="116">
   </a>
@@ -13,12 +14,6 @@
 
 
 
-
-
-
-
-
-  ![Anurag's GitHub stats](	https://github-readme-stats.vercel.app/api?username=alanwanglon&theme=blue-green)
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alanwanglon&theme=blue-green)
 
