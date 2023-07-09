@@ -4,10 +4,10 @@
 <div align="center" justfycontent="center">
 
 <a href="https://alanwanglon.github.io/portifolio.projetos/">
-<img src="https://raw.githubusercontent.com/AlanWanglon/AlanWanglon/main/4d.gif" width="36px">
+<img src="https://raw.githubusercontent.com/AlanWanglon/AlanWanglon/main/4d.gif" width="52px">
 </a>
 <a href="https://alanwanglon.github.io/portifolio.projetos/">
-<img src="https://github.com/AlanWanglon/AlanWanglon/blob/main/logo.jpg" width="151.6">
+<img src="https://github.com/AlanWanglon/AlanWanglon/blob/main/logo.jpg" width="218">
 </a>
 
 
