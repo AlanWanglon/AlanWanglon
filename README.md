@@ -8,11 +8,11 @@
 </div>
 
 <br>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanwanglon&theme=blue-green">
-</div>
-
+ <a href="https://alanwanglon.github.io/portifolio.projetos/">
+    <img src="https://raw.githubusercontent.com/AlanWanglon/AlanWanglon/main/4d.gif" width="52px">
+  </a>
+<div/>
 <br>
 
 <div align="center">
