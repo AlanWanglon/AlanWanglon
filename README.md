@@ -8,12 +8,7 @@
 </div>
 
 <br>
-<div align="center">
- <a href="https://alanwanglon.github.io/portifolio.projetos/">
-    <img src="https://raw.githubusercontent.com/AlanWanglon/AlanWanglon/main/4d.gif" width="52px">
-  </a>
-<div/>
-<br>
+
 
 <div align="center">
   <a href="https://www.instagram.com/alan_wanglon/" style="text-decoration: none;">
@@ -27,12 +22,18 @@
 <br>
 
 <div align="center">
+
   <img height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5">
   <img height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3">
   <img height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap">
   <img height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+</div>
+<div align ="right">
+   <a href="https://alanwanglon.github.io/portifolio.projetos/">
+    <img src="https://raw.githubusercontent.com/AlanWanglon/AlanWanglon/main/4d.gif" width="60px">
+  </a>
 </div>
 
 
