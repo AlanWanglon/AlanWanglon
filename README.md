@@ -1,4 +1,4 @@
-<h2 align="center" style="color: #2DFFA0;">Olá, eu sou o Alan Wanglon 👋</h2>
+<h2 align="center" style="color: #2DFFA0;">Olá </h2>
 
 <div align="center">
  
